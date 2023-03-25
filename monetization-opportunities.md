@@ -14,18 +14,18 @@ Once you have a PDF reader installed on your device, simply click on the "presen
 Alternatively, you can download the file by clicking on the "Download" button and then open it from your device.
 
 Contents
-The "presentation.pdf" file contains 10 slides which provide an overview of machine learning, including:
+The .pdf file contains 10 slides which provide an overview of machine learning, including:
 
-Monetization Opportunities for B2C AI Solutions
-Agenda
-Background of the Study
-Problem Statement
-Potential Monetization Opportunities
-Subscription Based Services
-Targetedt Advertising
-Transaction Fees
-Gallery
-Contact Us
+    Monetization Opportunities for B2C AI Solutions
+    Agenda
+    Background of the Study
+    Problem Statement
+    Potential Monetization Opportunities
+    Subscription Based Services
+    Targetedt Advertising
+    Transaction Fees
+    Gallery
+    Contact Us
 
 Contact
 If you have any questions or comments about the presentation, please feel free to contact me at fikunmiadekunle@gmail.com
